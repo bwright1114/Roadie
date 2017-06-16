@@ -25,8 +25,34 @@
 
 .btn-success {
     color: #fff;
-    background-color: #5cb85c;
-    border-color: #4cae4c;
-    float: none;
+    background-color: #69793e;
+    border-color: #69793e;
     margin-left: 500px;
+    font-size: 20px;
+}
+
+.panel-default {
+    border-color: orangered;
+    border-width: thick;
+    font-size: 20px;
+}
+
+.roadiefooter {
+    background-color: #69793e;
+    padding: 20px 0;
+    opacity: 1;
+    position: absolute;
+    left: 0;
+    right: 0;
+    color: white;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    float: right;
+}
+
+#landNavbar {
+    font-size: larger;
 }
