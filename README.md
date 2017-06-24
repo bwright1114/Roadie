@@ -1,6 +1,7 @@
 **# Roadie is an intuitive app that allows the user to add, view, and delete travel itinerary. It is a convenient travel planner that helps you organize your day to day activities while traveling.**
 
 Please check out the app at https://roadie2017.herokuapp.com/
+
 this app was completed in 2 weeks. 
 
 # **Quick synopsis of Roadie**
